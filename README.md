@@ -17,9 +17,10 @@ For NewsCommentary, the timestamps correspond to the 'article:published_time' ex
 # Recreating the data
 
 Recreate the tgz file then extract it:
+```
 cat en-fr.tgz.part* > en-fr.tgz
 tar xzvf en-fr.tgz
-
+```
 
 
 
